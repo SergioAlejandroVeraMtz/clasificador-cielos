@@ -1,0 +1,6 @@
+PyQt5
+numpy
+matplotlib
+Pillow
+# Opcional: scipy acelera la segmentación; si no está, se usa numpy
+scipy

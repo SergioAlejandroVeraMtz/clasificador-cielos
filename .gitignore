@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Secretos y configuración local
+.env
+
